@@ -68,11 +68,14 @@
     color: #1f2937;
     margin-bottom: 50px;
     margin-top: 50px;
+    text-align: center;
 }
 
 .boxes{
     color: #1f2937;
     display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
 }
 
 .square{
@@ -82,17 +85,39 @@
     border-radius: 10px;
 
 }
-.quotes{
-    background-color: #e5e7eb;
+.section3{
+       background-color: #e5e7eb;
+}
+
+.quote{
     color: #1f2937;
     font-size: 36px;
     font-weight: light-italic;
-
-}
-.quote1{
-
+    background-color: #e5e7eb;
 }
 
 .author{
+    color: #1F2937;
+    text-align: end;
+    font-size: 20px;
+background-color: #e5e7eb;
+}
+.section4{
+}
+.c2a{
+    background-color: #3882f6;
+    height: 200 px;
+    display: flex;
+    justify-content: center; 
+}
+.c2aquote{
 
+}
+.button2{
+   justify-self: end;
+}
+.section4{
+    background-color:#1F2937 ;
+    display: flex;
+    align-self: center;
 }
