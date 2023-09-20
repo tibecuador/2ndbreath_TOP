@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.header {
+    color: white;
+    background-color: #1F2937;
+}
+
+.headertop {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+
+}
+.logo {
+    color: #F9FAF8;
+   font-size: 24px;
+}
+.links {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    list-style-type: none;
+    font-size: 18px;
+    color: #F9FAF8;
+    
+}
+.headerbody {
+    margin-top: 70px;
+    display: flex;
+}
+.hbleft{
+    margin-left: 75px;
+}
+.title{
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: extra-bold;
+}
+.titlesub{
+    color: #F9FAF8;
+    font-size: 25px;
+}
+
+.headerbutton{
+    color: #f9f9f9;
+    background-color: #3882f6;
+    font-size: 25px;
+    padding: 10px;
+    margin-top: 25px;
+
+
+}
+.hbright{
+    margin-left: 100px;
+}
+
+.section2{
+    
+}
+
+.h2{
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1f2937;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.boxes{
+    color: #1f2937;
+    display: flex;
+}
+
+.square{
+    height: 250px;
+    width: 250px;
+    border: 2px solid blue;
+    border-radius: 10px;
+
+}
+.quotes{
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: light-italic;
+
+}
+.quote1{
+
+}
+
+.author{
+
+}
